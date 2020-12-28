@@ -26,7 +26,7 @@ projects:
     archived: false
     forks: false
     projects:
-    # - repo-name
+      - roslyn
 
 social_media:
   linkedin: prazanowska
